@@ -1,7 +1,5 @@
-## Olá eu sou o Lucas Lopes Melania 👋
+## Olá, eu sou o Lucas Lopes Melania 👋
 
-
-- 🌱 Eu estou aprendendo:
 <div>
   <a href="https://github.com/lucasmelania">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmelania&show_icons=true&theme=dark"/>
@@ -25,9 +23,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasmelania/lucasmelania/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasmelania/lucasmelania/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasmelania/lucasmelania/output/github-contribution-grid-snake.svg">
 </picture>
          
           

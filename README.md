@@ -1,5 +1,7 @@
 ## Olá, eu sou o Lucas Lopes Melania 👋
-
+🎓 Estudante da ETEC Cid Tiradentes  
+💻 Curso Técnico em Informática para Internet  
+🚀 Explorando o mundo do **Front-end** e **Back-end**
 <div>
   <a href="https://github.com/lucasmelania">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasmelania&show_icons=true&theme=dark"/>

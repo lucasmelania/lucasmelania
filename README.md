@@ -17,7 +17,7 @@ md id="u4n8pf"
 
 <p align="center">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmelania&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
 

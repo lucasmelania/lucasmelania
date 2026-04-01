@@ -20,10 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/lucasmelania">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasmelania&show_icons=true&theme=dark&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&langs_count=10&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmelania&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+username=lucasmelania&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 

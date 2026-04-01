@@ -1,4 +1,4 @@
-md id="u4n8pf"
+
 # 👋 Olá, eu sou Lucas Lopes Melania  
 
 🎓 Estudante da **ETEC Cid Tiradentes**  

@@ -1,4 +1,4 @@
-md id="x1mk9z"
+md id="u4n8pf"
 # 👋 Olá, eu sou Lucas Lopes Melania  
 
 🎓 Estudante da **ETEC Cid Tiradentes**  
@@ -14,15 +14,11 @@ md id="x1mk9z"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasmelania&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmelania&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=lucasmelania&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,12 +47,4 @@ md id="x1mk9z"
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasmelania&color=blue"/>
-</p>
 ```
-
-          

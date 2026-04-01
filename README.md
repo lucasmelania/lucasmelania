@@ -14,10 +14,13 @@ md id="u4n8pf"
 ## 📊 GitHub Stats
 
 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmelania&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmelania&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="335" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
+```
+
 ```
 
 ```
